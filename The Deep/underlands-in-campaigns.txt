@@ -10,4 +10,4 @@ Quick summary of their lore and how you can use harpies as allies/foes in your o
 
 -harpies do a small bit of trade, mostly with humans. They don't produce a lot of goods aside from musical instruments. 
 
-Technical note: if you want to load the Harpies faction as a dependency instead of copying files, add {~add-ons/Harpies/load_harpies.cfg} to your _main.cfg and add Harpies to your add-on's dependencies list in the _server.pbl
+Technical note: if you want to load the Harpies faction as a dependency instead of copying files, add {~add-ons/Underlands/load_harpies.cfg} to your _main.cfg and add Harpies to your add-on's dependencies list in the _server.pbl
