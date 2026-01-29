@@ -1,0 +1,36 @@
+Processed 39 files; modified 23 files.
+File: The_High_Kingdom\units\HK1_Anuvian_Hunter.cfg | Attack: dagger | Old: attacks/claws-animal.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK1_Anuvian_Hunter.cfg | Attack: bow | Old: attacks/claws-animal.png | New: attacks/bow-elven-magic.png
+File: The_High_Kingdom\units\HK1_Ekosian_Cultist.cfg | Attack: Dagger | Old: attacks/claws-shadow.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK1_Ekosian_Cultist.cfg | Attack: Curse | Old: attacks/claws-shadow.png | New: attacks/curse.png
+File: The_High_Kingdom\units\HK1_Ekosian_Soldier.cfg | Attack: Sling | Old: attacks/claws-animal.png | New: attacks/sling.png
+File: The_High_Kingdom\units\HK1_Ekosian_Visir.cfg | Attack: Club | Old: attacks/pike.png | New: attacks/club-small.png
+File: The_High_Kingdom\units\HK1_Ekosian_Visir.cfg | Attack: Light Ray | Old: attacks/claws-animal.png | New: attacks/lightbeam.png
+File: The_High_Kingdom\units\HK1_Ibian_Mercenary.cfg | Attack: spear | Old: attacks/claws-animal.png | New: attacks/spear-orcish.png
+File: The_High_Kingdom\units\HK1_Ibian_Mercenary.cfg | Attack: sling | Old: attacks/claws-animal.png | New: attacks/sling.png
+File: The_High_Kingdom\units\HK1_Khat.cfg | Attack: curse | Old: attacks/claws-animal.png | New: attacks/curse.png
+File: The_High_Kingdom\units\HK1_Shearin_Pirate.cfg | Attack: scimitar | Old: attacks/claws-animal.png | New: attacks/scimitar.png
+File: The_High_Kingdom\units\HK2_Anuvian_Charioteer.cfg | Attack: Composite Bow | Old: attacks/claws-animal.png | New: attacks/bow-elven-magic.png
+File: The_High_Kingdom\units\HK2_Anuvian_Pitati.cfg | Attack: dagger | Old: attacks/claws-animal.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK2_Anuvian_Pitati.cfg | Attack: Composite Bow | Old: attacks/rock_thrown.png | New: attacks/bow-elven-magic.png
+File: The_High_Kingdom\units\HK2_Ekosian_Nightbringer.cfg | Attack: dagger | Old: attacks/claws-shadow.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK2_Ekosian_Riverguard.cfg | Attack: staff | Old: attacks/pike.png | New: attacks/staff-elven-star.png
+File: The_High_Kingdom\units\HK2_Ekosian_Riverguard.cfg | Attack: curse | Old: attacks/pike.png | New: attacks/curse.png
+File: The_High_Kingdom\units\HK2_Ibian_Skirmisher.cfg | Attack: lance | Old: attacks/pike.png | New: attacks/lance.png
+File: The_High_Kingdom\units\HK2_Light_Acolyte.cfg | Attack: staff | Old: attacks/claws-animal.png | New: attacks/staff-elven-star.png
+File: The_High_Kingdom\units\HK2_Scarab_Rider.cfg | Attack: horn | Old: attacks/dagger-human.png | New: attacks/scarab-horn.png
+File: The_High_Kingdom\units\HK2_Scarab_Rider.cfg | Attack: sling | Old: attacks/claws-animal.png | New: attacks/sling.png
+File: The_High_Kingdom\units\HK2_Shearin_Buccaneer.cfg | Attack: spear | Old: attacks/pike.png | New: attacks/spear-orcish.png
+File: The_High_Kingdom\units\HK3_Crawling_Fortress.cfg | Attack: horn | Old: attacks/claws-animal.png | New: attacks/scarab-horn.png
+File: The_High_Kingdom\units\HK3_Crawling_Fortress.cfg | Attack: lance | Old: attacks/claws-animal.png | New: attacks/lance.png
+File: The_High_Kingdom\units\HK3_Ekosian_Sun_Seer.cfg | Attack: dagger | Old: attacks/dagger-human.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK3_Ibian_Great_Chief.cfg | Attack: lance | Old: attacks/pike.png | New: attacks/lance.png
+File: The_High_Kingdom\units\HK3_Night_Maiden.cfg | Attack: dagger | Old: attacks/dagger-human.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK3_Ta-Seti_Champion.cfg | Attack: dagger | Old: attacks/claws-animal.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK3_Ta-Seti_Champion.cfg | Attack: dagger | Old: attacks/rock_thrown.png | New: attacks/dagger-curved.png
+File: The_High_Kingdom\units\HK3_Ta-Seti_Champion.cfg | Attack: War Bow | Old: attacks/torch.png | New: attacks/bow-elven-magic.png
+File: The_High_Kingdom\units\HK4_Avatar_of_Nepthys.cfg | Attack: claws | Old: attacks/claws-fire-elemental.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK4_Avatar_of_Nepthys.cfg | Attack: song of extinction | Old: attacks/frenzy.png | New: attacks/hoof-nightmare.png
+File: The_High_Kingdom\units\HK4_Avatar_of_Rah.cfg | Attack: claws | Old: attacks/claws-fire-elemental.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK4_Avatar_of_Rah.cfg | Attack: song of extinction | Old: attacks/frenzy.png | New: attacks/hoof-nightmare.png
+File: The_High_Kingdom\units\HK4_Emissary_of_Osiris.cfg | Attack: knife | Old: attacks/greatsword-orcish.png | New: attacks/dagger-human.png
