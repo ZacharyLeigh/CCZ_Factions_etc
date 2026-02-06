@@ -1,3 +1,25 @@
+freelands:	recruit	losses	kills	turns
+drakes:		
+dune:		
+dwarves:	
+elves:		
+humans:		
+orcs:		
+undead:		282	117	224	12
+
+go second
+drakes:		
+dune:		
+dwarves:	
+elves:		
+humans:		
+orcs:		
+undead:
+
+***************
+balance patch 2
+***************
+
 hamlets:	units	turns
 drakes:		12	17
 dune:		-11	15	

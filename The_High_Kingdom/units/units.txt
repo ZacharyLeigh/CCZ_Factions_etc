@@ -27,7 +27,7 @@ HK3_Ibian_Great_Chief.cfg
 HK3_Night_Maiden.cfg
 HK3_Priest_of_Anubis.cfg
 HK3_Shearin_Marauder.cfg
-HK3_Ta-Seti_Champion.cfg
+HK3_Ta_Seti_Champion.cfg
 HK3_The_Blessed_Dead.cfg
 HK4_Anuvian_Chariot_Master.cfg
 HK4_Avatar_of_Nepthys.cfg
