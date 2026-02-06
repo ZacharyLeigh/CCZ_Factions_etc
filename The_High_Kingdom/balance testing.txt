@@ -1,3 +1,26 @@
+hamlets:	units	turns
+drakes:		12	17
+dune:		-11	15	
+dwarves:	12	13
+elves:		10	36
+humans:		-12	20
+orcs:		6	18
+undead:		-15	20	
+
+go second
+drakes:		8	17
+dune:		-8	17
+dwarves:	11	15
+elves:		9	14	
+humans:		7	9	bad human leader choice?
+orcs:		-2	9	visir has 29hp...
+undead:		-11	20
+
+
+***************
+balance patch 1
+***************
+
 2 player survival testing
 
 revnant/revnant: 		29-34
