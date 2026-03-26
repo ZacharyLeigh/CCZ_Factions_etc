@@ -1,0 +1,16 @@
+Processed 39 files; modified 13 files.
+File: The_High_Kingdom\units\HK1_Ekosian_Apothecary.cfg | Attack: embalming fluid | Old: attacks/faerie-fire.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK1_Ekosian_Soldier.cfg | Attack: khopesh | Old: attacks/claws-animal.png | New: attacks/sword-human.png
+File: The_High_Kingdom\units\HK2_Anuvian_Charioteer.cfg | Attack: khopesh | Old: attacks/claws-animal.png | New: attacks/sword-human.png
+File: The_High_Kingdom\units\HK2_Anuvian_Charioteer.cfg | Attack: composite bow | Old: attacks/bow-elven-magic.png | New: attacks/bow.png
+File: The_High_Kingdom\units\HK2_Anuvian_Pitati.cfg | Attack: composite bow | Old: attacks/bow-elven-magic.png | New: attacks/bow.png
+File: The_High_Kingdom\units\HK2_Ekosian_Embalmer.cfg | Attack: embalming fluid | Old: attacks/faerie-fire.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK2_Light_Acolyte.cfg | Attack: sunstrike | Old: attacks/iceball.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK2_Shearin_Buccaneer.cfg | Attack: slash | Old: attacks/pike.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK3_Ekosian_Sun_Seer.cfg | Attack: ensnare | Old: attacks/faerie-fire.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK3_Night_Maiden.cfg | Attack: ensnare | Old: attacks/faerie-fire.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK3_Priest_of_Anubis.cfg | Attack: embalming fluid | Old: attacks/faerie-fire.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK3_Priest_of_Anubis.cfg | Attack: judgement | Old: attacks/wail.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK4_Avatar_of_Nepthys.cfg | Attack: soul drain | Old: attacks/gaze.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK4_Avatar_of_Rah.cfg | Attack: soul drain | Old: attacks/gaze.png | New: attacks/claws-animal.png
+File: The_High_Kingdom\units\HK4_Emissary_of_Osiris.cfg | Attack: judgement | Old: attacks/greatsword-orcish.png | New: attacks/claws-animal.png

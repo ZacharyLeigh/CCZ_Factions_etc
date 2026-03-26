@@ -1,0 +1,7 @@
+mod by Asmybelle
+I used the faerie fire graphic for some of the parader and Resplendent's animations
+
+thanks to 
+ForestDragon for the balance aspect and some of the custom abilities code
+
+people from the Wesnoth Modders' Guild discord for answering my questions
